@@ -1,0 +1,6 @@
+{
+  "model_path": "models/yolo11m.pt",
+  "device": "cuda",
+  "threshold": 0.25,
+  "target_class": "person"
+}

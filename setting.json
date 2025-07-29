@@ -1,0 +1,7 @@
+{
+    "confidence_threshold": 0.5,
+    "bounding_box_size": 15000,
+    "similarity_upper": 0.8,
+    "similarity_lower": 0.4,
+    "similarity_step": 0.05
+}
